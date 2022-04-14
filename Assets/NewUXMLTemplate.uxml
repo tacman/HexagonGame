@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement />
+    <ui:Button text="Quit" display-tooltip-when-elided="true" name="quit" style="-unity-background-image-tint-color: rgba(214, 52, 52, 255); background-color: rgba(224, 26, 26, 255);" />
+</ui:UXML>
